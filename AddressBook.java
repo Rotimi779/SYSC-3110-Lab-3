@@ -27,5 +27,7 @@ public class AddressBook  {
         addressBook1.addBuddy(buddy);
         addressBook1.removeBuddy(0);
         System.out.println("New change");
+        System.out.println("This some new extra text");
+        
     }
 }
