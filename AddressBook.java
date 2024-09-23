@@ -21,6 +21,7 @@ public class AddressBook  {
         return null;
     }
 
+
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo("Rotimi","Revalie",101253689);
         AddressBook addressBook1 = new AddressBook();
